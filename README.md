@@ -1,1 +1,1 @@
-# Veri-Yap-lar-ve-ALgoritmalar-Patika-Dev
+## Veri-Yapilari-ve-ALgoritmalar-Patika-Dev
